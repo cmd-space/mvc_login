@@ -1,0 +1,19 @@
+div
+{
+	border: 1px solid black;
+	max-width: 40em;
+	margin-bottom: .25em;
+}
+div p,
+div label
+{
+	padding-left: 1em;
+}
+.error
+{
+	color: red;
+}
+a
+{
+	padding-left: 40em;
+}
